@@ -1,0 +1,31 @@
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 25: uvm_test_top.env_h.scoreboard_h [PASS ] in=0000  rst=1  out=0000
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 35: uvm_test_top.env_h.scoreboard_h [PASS ] in=1111  rst=0  out=0000
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 45: uvm_test_top.env_h.scoreboard_h [PASS ] in=1100  rst=0  out=0000
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 55: uvm_test_top.env_h.scoreboard_h [PASS ] in=0110  rst=0  out=1111
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 65: uvm_test_top.env_h.scoreboard_h [PASS ] in=1101  rst=0  out=1100
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 75: uvm_test_top.env_h.scoreboard_h [PASS ] in=0001  rst=0  out=0110
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 85: uvm_test_top.env_h.scoreboard_h [PASS ] in=0010  rst=0  out=1101
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 95: uvm_test_top.env_h.scoreboard_h [PASS ] in=0000  rst=0  out=0001
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 105: uvm_test_top.env_h.scoreboard_h [PASS ] in=1011  rst=0  out=0010
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 115: uvm_test_top.env_h.scoreboard_h [PASS ] in=0011  rst=0  out=0000
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 125: uvm_test_top.env_h.scoreboard_h [PASS ] in=1000  rst=0  out=1011
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 135: uvm_test_top.env_h.scoreboard_h [PASS ] in=1010  rst=0  out=0011
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 145: uvm_test_top.env_h.scoreboard_h [PASS ] in=1001  rst=0  out=1000
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 155: uvm_test_top.env_h.scoreboard_h [PASS ] in=0101  rst=0  out=1010
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 165: uvm_test_top.env_h.scoreboard_h [PASS ] in=1110  rst=0  out=1001
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 175: uvm_test_top.env_h.scoreboard_h [PASS ] in=0100  rst=0  out=0101
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 185: uvm_test_top.env_h.scoreboard_h [PASS ] in=0111  rst=0  out=1110
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 195: uvm_test_top.env_h.scoreboard_h [PASS ] in=0111  rst=0  out=0100
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 205: uvm_test_top.env_h.scoreboard_h [PASS ] in=0100  rst=0  out=0111
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 215: uvm_test_top.env_h.scoreboard_h [PASS ] in=1110  rst=0  out=0111
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 225: uvm_test_top.env_h.scoreboard_h [PASS ] in=0101  rst=0  out=0100
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 235: uvm_test_top.env_h.scoreboard_h [PASS ] in=1001  rst=0  out=1110
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 245: uvm_test_top.env_h.scoreboard_h [PASS ] in=1010  rst=0  out=0101
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 255: uvm_test_top.env_h.scoreboard_h [PASS ] in=1000  rst=0  out=1001
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 265: uvm_test_top.env_h.scoreboard_h [PASS ] in=0011  rst=0  out=1010
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 275: uvm_test_top.env_h.scoreboard_h [PASS ] in=1011  rst=0  out=1000
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 285: uvm_test_top.env_h.scoreboard_h [PASS ] in=0000  rst=0  out=0011
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 295: uvm_test_top.env_h.scoreboard_h [PASS ] in=0010  rst=0  out=1011
+UVM_INFO /home/runner/shr_scoreboard.sv(77) @ 305: uvm_test_top.env_h.scoreboard_h [PASS ] in=0001  rst=0  out=0000
+UVM_INFO /home/runner/shr_coverage.sv(49) @ 315: uvm_test_top.env_h.coverage_h [shr_coverage] Coverage is 100.000000
+UVM_INFO /home/runner/shr_scoreboard.sv(92) @ 315: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 29 vectors ran, 29 vectors passed ***
